@@ -47,3 +47,39 @@ C:\Users\jasuri\source\repos\Azure AD B2C\custom-policy-manager\B2CPolicyManager
 C:\Users\jasuri\source\repos\Azure AD B2C\custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.csproj.CopyComplete
 C:\Users\jasuri\source\repos\Azure AD B2C\custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.exe
 C:\Users\jasuri\source\repos\Azure AD B2C\custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.pdb
+C:\Users\arevilla\source\repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.csproj.AssemblyReference.cache
+C:\Users\arevilla\source\repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.B2CPolicyManager.resources
+C:\Users\arevilla\source\repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.Properties.Resources.resources
+C:\Users\arevilla\source\repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.csproj.GenerateResource.cache
+C:\Users\arevilla\source\repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.csproj.CoreCompileInputs.cache
+C:\Users\arevilla\source\repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.exe
+C:\Users\arevilla\source\repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.pdb
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.csproj.AssemblyReference.cache
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.B2CPolicyManager.resources
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.Properties.Resources.resources
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.csproj.GenerateResource.cache
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.csproj.CoreCompileInputs.cache
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.exe
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.pdb
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\B2CPolicyManager.exe.config
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\B2CPolicyManager.exe
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\B2CPolicyManager.pdb
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\Microsoft.Identity.Client.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\Microsoft.IdentityModel.Abstractions.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\Newtonsoft.Json.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Buffers.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Memory.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Numerics.Vectors.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Security.Cryptography.ProtectedData.dll
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\Microsoft.Identity.Client.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\Microsoft.IdentityModel.Abstractions.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\Newtonsoft.Json.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Buffers.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Memory.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Numerics.Vectors.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\bin\Release\System.Security.Cryptography.ProtectedData.xml
+C:\arevilla-repos\azure-ad-b2c-custom-policy-manager\B2CPolicyManager\obj\Release\B2CPolicyManager.csproj.CopyComplete
